@@ -1,1 +1,1 @@
-Homeless But Not Hopeless Society's internship project where we made their Website using HTML, CSS and Javascript
+Homeless But Not Hopeless Society's social cause project where we made the Website using HTML, CSS and Javascript
